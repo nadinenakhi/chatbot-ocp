@@ -1,0 +1,100 @@
+import { Link } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import logo from '../../img/logoOcp.png';
+import { FiLogOut } from 'react-icons/fi';
+import { useState } from 'react';
+
+function Sidebar() {
+  const storedUsername = localStorage.getItem('username') || 'User';
+  const username = storedUsername.charAt(0).toUpperCase() + storedUsername.slice(1);
+  const [openDropdown, setOpenDropdown] = useState(false);
+
+  return (
+    <div
+      className="d-flex flex-column justify-between p-3 text-dark border-end"
+      style={{
+        width: '220px',
+        height: '100vh',
+        position: 'fixed',
+        backgroundColor: '#f8f9fa',
+      }}
+    >
+      {/* Logo and Navigation */}
+      <div>
+        <div className="d-flex align-items-center mb-4 gap-2">
+          <img src={logo} alt="OCP Logo" style={{ width: '30px', height: '30px' }} />
+          <h4 className="mb-0">Helpdesk</h4>
+        </div>
+
+        <ul className="nav nav-pills flex-column mb-auto">
+          <li className="nav-item">
+            <Link to="home" className="nav-link text-dark fw-medium">Home</Link>
+          </li>
+
+          <li>
+            <Link to="users" className="nav-link text-dark fw-medium">Users</Link>
+          </li>
+
+          {/* Dropdown Item (Collapsible) */}
+          <li>
+            <button
+              className="nav-link btn text-start text-dark fw-medium w-100"
+              onClick={() => setOpenDropdown(!openDropdown)}
+              style={{ background: 'none', border: 'none' }}
+            >
+             Tickets ▾
+            </button>
+            {openDropdown && (
+              <ul className="nav flex-column ms-3">
+                <li className="nav-item">
+                  <Link to="add-ticket" className="nav-link text-dark fw-medium">Add Ticket</Link>
+                </li>
+                <li className="nav-item">
+                  <Link to="allTicket" className="nav-link text-dark fw-medium">All tickets</Link>
+                </li>
+                <li className="nav-item">
+                  <Link to="myTicket" className="nav-link text-dark fw-medium">My tickets</Link>
+                </li>
+              </ul>
+            )}
+          </li>
+
+          <li>
+            <Link to="chatbot" className="nav-link text-dark fw-medium">Chatbot</Link>
+          </li>
+        </ul>
+      </div>
+
+      {/* User Info */}
+      <div className="mt-auto position-relative border-top pt-3">
+        <div className="d-flex align-items-center justify-content-between">
+          <div className="d-flex align-items-center">
+            <div
+              className="rounded-circle d-flex align-items-center justify-content-center text-dark fw-medium"
+              style={{
+                width: '40px',
+                height: '40px',
+                backgroundColor: '#a1a3a2ff',
+                fontSize: '14px',
+              }}
+            >
+              {username.charAt(0)}
+            </div>
+            <span className="ms-2 fw-medium">{username}</span>
+          </div>
+          <button
+            className="btn btn-sm ms-2"
+            onClick={() => {
+              localStorage.clear();
+              window.location.reload();
+            }}
+          >
+            <FiLogOut className="me-1" />
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Sidebar;

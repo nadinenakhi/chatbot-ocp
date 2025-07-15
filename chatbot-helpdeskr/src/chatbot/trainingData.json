@@ -1,0 +1,3215 @@
+[
+  {"input": "My laptop won't turn on","label": "hardware_issue"},
+  {"input": "The screen is black when I start my computer","label": "hardware_issue"},
+  {"input": "My PC is overheating","label": "hardware_issue"},
+  {"input": "Keyboard is not working","label": "hardware_issue"},
+  {"input": "My mouse is not responding","label": "hardware_issue"},
+  {"input": "The hard drive is making strange noises","label": "hardware_issue"},
+  {"input": "USB ports are not working","label": "hardware_issue"},
+  {"input": "Computer freezes during startup","label": "hardware_issue"},
+  {
+    "input": "The fan is very loud",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (11)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The screen is black when I start the computer (12)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (13)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (14)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (15)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (16)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (17)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My mouse is not responding (18)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (19)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (20)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The hard drive is making strange noises (21)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding (22)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My mouse is not responding (23)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The screen is black when I start the computer (24)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (25)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (26)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding (27)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (28)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (29)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (30)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (31)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The hard drive is making strange noises (32)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (33)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (34)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding (35)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (36)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (37)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (38)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The screen is black when I start the computer (39)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (40)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (41)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (42)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (43)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My mouse is not responding (44)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (45)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The screen is black when I start the computer (46)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The hard drive is making strange noises (47)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (48)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (49)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (50)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (51)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (52)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (53)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding (54)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (55)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My mouse is not responding (56)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The hard drive is making strange noises (57)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (58)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (59)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The screen is black when I start the computer (60)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (61)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (62)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (63)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My mouse is not responding (64)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (65)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The hard drive is making strange noises (66)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (67)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (68)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The screen is black when I start the computer (69)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (70)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The hard drive is making strange noises (71)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (72)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (73)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (74)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (75)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (76)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (77)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My mouse is not responding (78)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (79)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The fan is very loud (80)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding (81)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The hard drive is making strange noises (82)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The screen is black when I start the computer (83)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (84)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (85)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (86)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding (87)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (88)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding (89)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "USB ports are not working (90)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My mouse is not responding (91)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (92)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Computer freezes during startup (93)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My PC is overheating (94)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (95)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Keyboard is not working (96)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My mouse is not responding (97)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The screen is black when I start the computer (98)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "My laptop won't turn on (99)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "Touchpad is not responding (100)",
+    "label": "hardware_issue"
+  },
+  {
+    "input": "The app crashes on launch",
+    "label": "software_issue"
+  },
+  {
+    "input": "I get an error when opening the software",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program won\u2019t load properly",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is showing a license error",
+    "label": "software_issue"
+  },
+  {
+    "input": "The program won't save my files",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (11)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (12)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (13)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing (14)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (15)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (16)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (17)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (18)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (19)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing (20)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (21)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (22)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (23)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (24)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The program won't save the files (25)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (26)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (27)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (28)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (29)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing (30)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The program won't save the files (31)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (32)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing (33)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (34)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (35)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I get an error when opening the software (36)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (37)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (38)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (39)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (40)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (41)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (42)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (43)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (44)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (45)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (46)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The program won't save the files (47)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (48)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I get an error when opening the software (49)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (50)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (51)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (52)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (53)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (54)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (55)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (56)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (57)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (58)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is showing a license error (59)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (60)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is showing a license error (61)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (62)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (63)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (64)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (65)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (66)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The program won't save the files (67)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (68)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (69)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (70)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (71)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (72)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing (73)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The program won't save the files (74)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is showing a license error (75)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (76)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I get an error when opening the software (77)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I get an error when opening the software (78)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (79)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The app crashes on launch (80)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (81)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (82)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (83)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing (84)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (85)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is showing a license error (86)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (87)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (88)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Program will not load properly (89)",
+    "label": "software_issue"
+  },
+  {
+    "input": "I can\u2019t install the application (90)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (91)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing (92)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (93)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The program won't save the files (94)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The update failed to install (95)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The program won't save the files (96)",
+    "label": "software_issue"
+  },
+  {
+    "input": "The software is running very slowly (97)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Software keeps freezing (98)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (99)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Installation wizard doesn't complete (100)",
+    "label": "software_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting",
+    "label": "network_issue"
+  },
+  {
+    "input": "Internet is very slow",
+    "label": "network_issue"
+  },
+  {
+    "input": "I can\u2019t connect to the network",
+    "label": "network_issue"
+  },
+  {
+    "input": "No internet access",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting",
+    "label": "network_issue"
+  },
+  {
+    "input": "Connection drops randomly",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (11)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (12)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (13)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Connection drops randomly (14)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (15)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (16)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (17)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (18)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (19)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Internet is very slow (20)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Internet is very slow (21)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Connection drops randomly (22)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (23)",
+    "label": "network_issue"
+  },
+  {
+    "input": "I can\u2019t connect to the network (24)",
+    "label": "network_issue"
+  },
+  {
+    "input": "I can\u2019t connect to the network (25)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (26)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (27)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (28)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (29)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (30)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (31)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (32)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (33)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (34)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (35)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (36)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Connection drops randomly (37)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (38)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (39)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (40)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (41)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (42)",
+    "label": "network_issue"
+  },
+  {
+    "input": "No internet access (43)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (44)",
+    "label": "network_issue"
+  },
+  {
+    "input": "No internet access (45)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (46)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Internet is very slow (47)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (48)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (49)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Internet is very slow (50)",
+    "label": "network_issue"
+  },
+  {
+    "input": "No internet access (51)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (52)",
+    "label": "network_issue"
+  },
+  {
+    "input": "I can\u2019t connect to the network (53)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (54)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (55)",
+    "label": "network_issue"
+  },
+  {
+    "input": "No internet access (56)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (57)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (58)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (59)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (60)",
+    "label": "network_issue"
+  },
+  {
+    "input": "I can\u2019t connect to the network (61)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (62)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (63)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Internet is very slow (64)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (65)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Connection drops randomly (66)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (67)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (68)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (69)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (70)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (71)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (72)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (73)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (74)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (75)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (76)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (77)",
+    "label": "network_issue"
+  },
+  {
+    "input": "No internet access (78)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Router is not working (79)",
+    "label": "network_issue"
+  },
+  {
+    "input": "I can\u2019t connect to the network (80)",
+    "label": "network_issue"
+  },
+  {
+    "input": "No internet access (81)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Internet is very slow (82)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Connection drops randomly (83)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (84)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (85)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (86)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (87)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Network cable not detected (88)",
+    "label": "network_issue"
+  },
+  {
+    "input": "LAN connection is unstable (89)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (90)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (91)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (92)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (93)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Connection drops randomly (94)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Connection drops randomly (95)",
+    "label": "network_issue"
+  },
+  {
+    "input": "I can\u2019t connect to the network (96)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Wi-Fi keeps disconnecting (97)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (98)",
+    "label": "network_issue"
+  },
+  {
+    "input": "VPN is not connecting (99)",
+    "label": "network_issue"
+  },
+  {
+    "input": "Unable to access websites (100)",
+    "label": "network_issue"
+  },
+  {
+    "input": "I can't log into my account",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot my password",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change my account settings",
+    "label": "account_issue"
+  },
+  {
+    "input": "I can't create a new account",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting my password",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error",
+    "label": "account_issue"
+  },
+  {
+    "input": "I\u2019m not receiving the verification code",
+    "label": "account_issue"
+  },
+  {
+    "input": "Username not recognized",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (11)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot create a new account (12)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (13)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (14)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (15)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (16)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (17)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (18)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (19)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Username not recognized (20)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (21)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (22)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (23)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (24)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (25)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I\u2019m not receiving the verification code (26)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (27)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (28)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (29)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (30)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (31)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I\u2019m not receiving the verification code (32)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting the password (33)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (34)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (35)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting the password (36)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (37)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (38)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (39)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (40)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (41)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Username not recognized (42)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (43)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (44)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (45)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (46)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (47)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot create a new account (48)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (49)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting the password (50)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I\u2019m not receiving the verification code (51)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Username not recognized (52)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (53)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (54)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot create a new account (55)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (56)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I\u2019m not receiving the verification code (57)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (58)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting the password (59)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting the password (60)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot create a new account (61)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (62)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (63)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting the password (64)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (65)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (66)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (67)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I\u2019m not receiving the verification code (68)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (69)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (70)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (71)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting the password (72)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (73)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (74)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot create a new account (75)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I\u2019m not receiving the verification code (76)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (77)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot create a new account (78)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot create a new account (79)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't change the account settings (80)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (81)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I\u2019m not receiving the verification code (82)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (83)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Username not recognized (84)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (85)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (86)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Need help resetting the password (87)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Account is locked (88)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Username not recognized (89)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (90)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (91)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (92)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (93)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (94)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (95)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot log into the account (96)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Login page gives me an error (97)",
+    "label": "account_issue"
+  },
+  {
+    "input": "My credentials are not accepted (98)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I cannot create a new account (99)",
+    "label": "account_issue"
+  },
+  {
+    "input": "I forgot the password (100)",
+    "label": "account_issue"
+  },
+  {
+    "input": "Can't send emails",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email is bouncing back",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to my inbox",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (11)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email is bouncing back (12)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (13)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (14)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can't send emails (15)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing (16)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (17)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (18)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (19)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (20)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (21)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (22)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (23)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (24)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (25)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (26)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder (27)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (28)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (29)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing (30)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (31)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (32)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (33)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (34)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (35)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder (36)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (37)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (38)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (39)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (40)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email is bouncing back (41)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (42)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing (43)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (44)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (45)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (46)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder (47)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (48)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (49)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (50)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (51)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (52)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (53)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can't send emails (54)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (55)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can't send emails (56)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing (57)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder (58)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (59)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing (60)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing (61)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (62)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can't send emails (63)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (64)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (65)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder (66)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (67)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (68)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (69)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing (70)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can't send emails (71)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (72)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (73)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (74)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder (75)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (76)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email is bouncing back (77)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (78)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email is bouncing back (79)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (80)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (81)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (82)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (83)",
+    "label": "email_issue"
+  },
+  {
+    "input": "I lost access to the inbox (84)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder (85)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (86)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can't send emails (87)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Emails are going to junk folder (88)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (89)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (90)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (91)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email is bouncing back (92)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email client not syncing (93)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (94)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Spam filter is too aggressive (95)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (96)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Email account is locked (97)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Can\u2019t attach files to email (98)",
+    "label": "email_issue"
+  },
+  {
+    "input": "My email address is not recognized (99)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Not receiving emails (100)",
+    "label": "email_issue"
+  },
+  {
+    "input": "Printer won\u2019t print",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is offline",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Print job stuck in queue",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printouts are faded",
+    "label": "printer_issue"
+  },
+  {
+    "input": "I get an error code on the printer",
+    "label": "printer_issue"
+  },
+  {
+    "input": "I get an error code on the printer (11)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printouts are faded (12)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (13)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Print job stuck in queue (14)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (15)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (16)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (17)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (18)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printouts are faded (19)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (20)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Print job stuck in queue (21)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (22)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (23)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (24)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (25)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Print job stuck in queue (26)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (27)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (28)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (29)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (30)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (31)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (32)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (33)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (34)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (35)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (36)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (37)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is offline (38)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (39)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (40)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (41)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (42)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printouts are faded (43)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Print job stuck in queue (44)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (45)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printouts are faded (46)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (47)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (48)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (49)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is offline (50)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (51)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (52)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (53)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (54)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (55)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (56)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "I get an error code on the printer (57)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (58)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (59)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (60)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (61)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (62)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (63)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (64)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (65)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "I get an error code on the printer (66)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (67)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Print job stuck in queue (68)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (69)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (70)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (71)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Print job stuck in queue (72)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (73)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is offline (74)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (75)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (76)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (77)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (78)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (79)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is offline (80)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Print job stuck in queue (81)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (82)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (83)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "I get an error code on the printer (84)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (85)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (86)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (87)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (88)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (89)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Getting low ink warning (90)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (91)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer will not print (92)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (93)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printouts are faded (94)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Can't connect to printer (95)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer is printing blank pages (96)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (97)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Printer not detected by computer (98)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (99)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "Paper jam in the printer (100)",
+    "label": "printer_issue"
+  },
+  {
+    "input": "My phone is not turning on",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I can't make calls",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone screen is cracked",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on my phone",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on my phone",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (11)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (12)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (13)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (14)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly (15)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (16)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone screen is cracked (17)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (18)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (19)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (20)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "My phone is not turning on (21)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "My phone is not turning on (22)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (23)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (24)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (25)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone screen is cracked (26)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (27)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone (28)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone (29)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (30)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone screen is cracked (31)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on the phone (32)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly (33)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly (34)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone screen is cracked (35)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly (36)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (37)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (38)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone (39)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "My phone is not turning on (40)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (41)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (42)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (43)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "My phone is not turning on (44)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (45)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly (46)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "My phone is not turning on (47)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on the phone (48)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (49)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (50)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (51)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (52)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (53)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (54)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly (55)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (56)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "My phone is not turning on (57)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (58)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (59)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (60)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone screen is cracked (61)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (62)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (63)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (64)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "My phone is not turning on (65)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (66)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on the phone (67)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on the phone (68)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (69)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (70)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone (71)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (72)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone (73)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly (74)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (75)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "My phone is not turning on (76)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (77)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (78)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (79)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Touchscreen is not responsive (80)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone (81)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (82)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on the phone (83)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (84)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone (85)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on the phone (86)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (87)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Bluetooth is not working on phone (88)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (89)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on the phone (90)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (91)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (92)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (93)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Phone keeps restarting (94)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "No signal on the phone (95)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Battery drains quickly (96)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (97)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Apps crash on the phone (98)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Microphone is not working (99)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "I cannot make calls (100)",
+    "label": "phone_issue"
+  },
+  {
+    "input": "Something else is wrong",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is",
+    "label": "other_issue"
+  },
+  {
+    "input": "General help needed",
+    "label": "other_issue"
+  },
+  {
+    "input": "This doesn\u2019t fit any category",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here",
+    "label": "other_issue"
+  },
+  {
+    "input": "Random error occurred",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (11)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Something else is wrong (12)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (13)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (14)",
+    "label": "other_issue"
+  },
+  {
+    "input": "This doesn\u2019t fit any category (15)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system (16)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (17)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here (18)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (19)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Something else is wrong (20)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (21)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (22)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (23)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (24)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (25)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (26)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system (27)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (28)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Something else is wrong (29)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (30)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here (31)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Random error occurred (32)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (33)",
+    "label": "other_issue"
+  },
+  {
+    "input": "General help needed (34)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (35)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Random error occurred (36)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (37)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (38)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Something else is wrong (39)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here (40)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (41)",
+    "label": "other_issue"
+  },
+  {
+    "input": "General help needed (42)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (43)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Something else is wrong (44)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Something else is wrong (45)",
+    "label": "other_issue"
+  },
+  {
+    "input": "This doesn\u2019t fit any category (46)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (47)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (48)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (49)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (50)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (51)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Something else is wrong (52)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (53)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (54)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here (55)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (56)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (57)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (58)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (59)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (60)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here (61)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (62)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (63)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system (64)",
+    "label": "other_issue"
+  },
+  {
+    "input": "This doesn\u2019t fit any category (65)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Random error occurred (66)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (67)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (68)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here (69)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Random error occurred (70)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (71)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (72)",
+    "label": "other_issue"
+  },
+  {
+    "input": "General help needed (73)",
+    "label": "other_issue"
+  },
+  {
+    "input": "General help needed (74)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (75)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (76)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here (77)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Random error occurred (78)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Issue not listed here (79)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system (80)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (81)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system (82)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (83)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system (84)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (85)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (86)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (87)",
+    "label": "other_issue"
+  },
+  {
+    "input": "This doesn\u2019t fit any category (88)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Random error occurred (89)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system (90)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Random error occurred (91)",
+    "label": "other_issue"
+  },
+  {
+    "input": "General help needed (92)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Something else is wrong (93)",
+    "label": "other_issue"
+  },
+  {
+    "input": "System behaves strangely (94)",
+    "label": "other_issue"
+  },
+  {
+    "input": "This doesn\u2019t fit any category (95)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Nothing is working as expected (96)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Strange behavior on system (97)",
+    "label": "other_issue"
+  },
+  {
+    "input": "I have an unusual problem (98)",
+    "label": "other_issue"
+  },
+  {
+    "input": "This doesn\u2019t fit any category (99)",
+    "label": "other_issue"
+  },
+  {
+    "input": "Not sure what the issue is (100)",
+    "label": "other_issue"
+  },
+
+  { "input": "Hi", "label": "greeting" },
+  { "input": "Hello", "label": "greeting" },
+  { "input": "Hey there", "label": "greeting" },
+  { "input": "Good morning", "label": "greeting" },
+
+  { "input": "Goodbye", "label": "goodbye" },
+  { "input": "Bye", "label": "goodbye" },
+  { "input": "See you later", "label": "goodbye" },
+
+  { "input": "Thank you", "label": "thanks" },
+  { "input": "Thanks a lot", "label": "thanks" },
+  { "input": "Thanks!", "label": "thanks" },
+
+  { "input": "How are you?", "label": "small_talk" },
+  { "input": "What's up?", "label": "small_talk" },
+  { "input": "How’s it going?", "label": "small_talk" },
+
+  { "input": "Can you help me?", "label": "help_request" },
+  { "input": "I need some help", "label": "help_request" },
+  { "input": "Please help me", "label": "help_request" },
+
+  { "input": "Are you a bot?", "label": "bot_identity" },
+  { "input": "What can you do?", "label": "bot_identity" },
+  { "input": "Who are you?", "label": "bot_identity" },
+
+  { "input": "Yes", "label": "confirmation" },
+  { "input": "Sure", "label": "confirmation" },
+  { "input": "Absolutely", "label": "confirmation" },
+
+  { "input": "No", "label": "rejection" },
+  { "input": "Not now", "label": "rejection" },
+  { "input": "I don't want to", "label": "rejection" },
+  
+  { "input": "You're amazing", "label": "gratitude" },
+  { "input": "I appreciate your help", "label": "gratitude" },
+  { "input": "That's very kind", "label": "gratitude" } ]
+
