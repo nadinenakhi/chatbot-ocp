@@ -1,0 +1,19 @@
+# Laravel
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.env.*
+.phpunit.result.cache
+
+# React
+**/node_modules
+**/build
+
+# Others
+.DS_Store
+.idea
+.vscode
+npm-debug.log
+yarn-error.log
